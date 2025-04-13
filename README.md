@@ -105,7 +105,9 @@ Design agents with robust cognitive models for intelligent task handling.
 
 ## 📝 Conclusion
 
-By mastering the skills and tools in this roadmap, you'll be well on your way to building advanced **Agentic AI Systems** in 2025. Keep learning and stay ahead of the curve!
+By mastering the skills and tools in this roadmap, you'll be well on your way to building advanced **Agentic AI Systems** in 2025. 
+
+Keep learning and stay ahead of the curve!
 
 ---
 
