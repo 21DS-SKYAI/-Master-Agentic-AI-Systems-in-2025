@@ -1,6 +1,6 @@
  # 🤖 Learning AI Agents — 
 
-This repository outlines everything I’m learning to master **Agentic AI Systems** in 2025.
+This repository outlines everything I’m learning to master **Agentic AI Systems** 
 
 Whether you're a beginner or an experienced developer, this roadmap will guide you through the essential skills required to build, deploy, and scale intelligent agent-based AI systems.
 
